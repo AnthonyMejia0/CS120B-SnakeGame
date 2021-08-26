@@ -1,4 +1,4 @@
-# CS120B-SnakeGame
+# CS120B SnakeGame
 
 Final project for CS/EE 120B at UCR<br />
 Introduction to Embedded Systems
